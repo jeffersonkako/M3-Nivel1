@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CadastroPoo-pt1/CadastroPoo-pt1.iml" filepath="$PROJECT_DIR$/CadastroPoo-pt1/CadastroPoo-pt1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CadastroPoo-pt2/CadastroPoo-pt2.iml" filepath="$PROJECT_DIR$/CadastroPoo-pt2/CadastroPoo-pt2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/M3-Nivel1.iml" filepath="$PROJECT_DIR$/.idea/M3-Nivel1.iml" />
+    </modules>
+  </component>
+</project>

@@ -88,11 +88,11 @@ public class Main {
                         System.out.println("1 - Pessoa Fisica | 2 - Pessoa Juridica");
                         String tipoPessoaBuscar = reader.readLine();
                         switch (tipoPessoaBuscar) {
-                            case "F":
+                            case "1":
                                 buscarPessoa(repoFisica, reader);
                                 System.out.println("((( Pessoa encontrada com sucesso. )))");
                                 break;
-                            case "J":
+                            case "2":
                                 buscarPessoa(repoJuridica, reader);
                                 System.out.println("((( Empresa encontrada com sucesso. )))");
                                 break;
